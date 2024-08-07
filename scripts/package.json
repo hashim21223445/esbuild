@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@types/node": "14.14.6",
+    "@types/node": "14.18.63",
     "@unicode/unicode-15.1.0": "1.5.2",
     "@unicode/unicode-3.0.0": "1.0.6",
     "fuse.js": "3.6.1",
