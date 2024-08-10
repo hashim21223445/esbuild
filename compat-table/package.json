@@ -4,7 +4,7 @@
     "williamkapke/node-compat-table": "25e6df7a41013f1ea62c3b4116f9bb53c399bded"
   },
   "dependencies": {
-    "@mdn/browser-compat-data": "5.5.34",
+    "@mdn/browser-compat-data": "5.5.40",
     "@types/caniuse-lite": "1.0.1",
     "@types/node": "20.3.2",
     "caniuse-lite": "1.0.30001636"
