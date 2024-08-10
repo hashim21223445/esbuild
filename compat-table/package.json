@@ -6,7 +6,7 @@
   "dependencies": {
     "@mdn/browser-compat-data": "5.5.40",
     "@types/caniuse-lite": "1.0.1",
-    "@types/node": "20.3.2",
+    "@types/node": "20.14.11",
     "caniuse-lite": "1.0.30001642"
   }
 }
